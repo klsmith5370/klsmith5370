@@ -7,4 +7,4 @@ I'm Kourtney Smith! 👋 I'm a entry level software engineer looking to grow and
   - Phone: 610-295-3984
 - LinkedIn: http://www.linkedin.com/in/kourtney-smith5370/
 - Portfolio: https://kourtneysmith-portfolio.netlify.app/
-⚡ Fun fact: I can speak some Japanese!
+- ⚡ Fun fact: I can speak some Japanese!
