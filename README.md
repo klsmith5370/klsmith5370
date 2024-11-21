@@ -1,7 +1,6 @@
 I'm Kourtney Smith! 👋 I'm a entry level software engineer looking to grow and enhance my knowledge. Currently looking for full-time jobs in web development.
 
-- 🔭 I’m currently working on my solo project NerdBar, which is using React.js, React-Redux, Express.js, Sequelize, PostgreSQL on Node.js
-- 🌱 Learning the MERN stack technologies and also TypeScript
+- 🌱 Currently learning Java and how to use Java in full stack development
   
 - 📫 How to reach me:
   - Email: klsmith5370@gmail.com
